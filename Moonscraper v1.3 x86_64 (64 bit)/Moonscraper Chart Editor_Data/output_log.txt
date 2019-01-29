@@ -1,0 +1,550 @@
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     1963 MB
+    Driver:   25.21.14.1735
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\Moonscraper Chart Editor_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\Moonscraper Chart Editor_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\Moonscraper Chart Editor_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\Moonscraper Chart Editor_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\Moonscraper Chart Editor_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\Moonscraper Chart Editor_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\Moonscraper Chart Editor_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\Moonscraper Chart Editor_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\Moonscraper Chart Editor_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\Moonscraper Chart Editor_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\Moonscraper Chart Editor_Data\Managed\NAudio.dll (this message is harmless)
+Loading E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\Moonscraper Chart Editor_Data\Managed\NAudio.dll into Unity Child Domain
+Platform assembly: E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\Moonscraper Chart Editor_Data\Managed\Bass.Net.dll (this message is harmless)
+Loading E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\Moonscraper Chart Editor_Data\Managed\Bass.Net.dll into Unity Child Domain
+Platform assembly: E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\Moonscraper Chart Editor_Data\Managed\Bass.Net.dll (this message is harmless)
+Loading E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\Moonscraper Chart Editor_Data\Managed\Bass.Net.dll into Unity Child Domain
+Platform assembly: E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\Moonscraper Chart Editor_Data\Managed\Ookii.Dialogs.dll (this message is harmless)
+Loading E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\Moonscraper Chart Editor_Data\Managed\Ookii.Dialogs.dll into Unity Child Domain
+Platform assembly: E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\Moonscraper Chart Editor_Data\Managed\System.Windows.Forms.dll (this message is harmless)
+Loading E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\Moonscraper Chart Editor_Data\Managed\System.Windows.Forms.dll into Unity Child Domain
+Platform assembly: E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\Moonscraper Chart Editor_Data\Managed\XInputDotNetPure.dll (this message is harmless)
+Loading E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\Moonscraper Chart Editor_Data\Managed\XInputDotNetPure.dll into Unity Child Domain
+- Completed reload, in  0.664 seconds
+Platform assembly: E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\Moonscraper Chart Editor_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\Moonscraper Chart Editor_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 19.269732 ms
+Loading skin from directory E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\Custom Resources
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Total backgrounds: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.144786 ms
+Initialising Moonscraper Chart Editor v1.3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\Moonscraper Chart Editor_Data\Managed\System.Drawing.dll (this message is harmless)
+Platform assembly: E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\Moonscraper Chart Editor_Data\Managed\Accessibility.dll (this message is harmless)
+Bass.Net initialised
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\local_events.txt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading events from E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)/local_events.txt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+10 event strings loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)\global_events.txt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading events from E:\Alex's stuff\Unity\Test Builds\Moonscraper v1.3\Moonscraper v1.3 x86_64 (64 bit)/global_events.txt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+28 event strings loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+None
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clap toggled: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 15690.
+Total: 8.016928 ms (FindLiveObjects: 1.033937 ms CreateObjectMapping: 0.262400 ms MarkObjects: 6.276528 ms  DeleteObjects: 0.440146 ms)
+
+At least 2 textures must be provided for background blending to work
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+At least 2 textures must be provided for background blending to work
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Undo: 1 actions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Undo: 2 actions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Undo: 2 actions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Undo: 2 actions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Undo: 2 actions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Undo: 2 actions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Undo: 1 actions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Undo: 0 actions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Redo: 1 actions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Redo: 2 actions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Redo: 2 actions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Redo: 2 actions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Redo: 2 actions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Redo: 2 actions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Redo: 1 actions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Redo: 0 actions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Redo: 0 actions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Undo: 1 actions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Undo: 2 actions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Undo: 2 actions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Undo: 2 actions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Undo: 2 actions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Undo: 2 actions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Undo: 1 actions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Undo: 0 actions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Undo: 0 actions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 51)
+
+Disposing of audio manager but there are still 3 streams remaining. Remaining streams will be cleaned up by the audio manager.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully freed audio stream
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully freed audio stream
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully freed audio stream
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Freed Bass Audio memory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2d0c -> priority: 1 
+  Thread -> id: 2938 -> priority: 1 
